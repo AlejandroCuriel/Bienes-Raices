@@ -349,9 +349,7 @@ margin-bottom: 0;
         display: block;
     }
 }
-footer p:last-of-type{
-    color: red;
-}
+
 .copyright{
     margin: 0;
     color: #ffffff;
